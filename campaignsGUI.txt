@@ -1,0 +1,12 @@
+10
+2018-08-03 13:00
+1;Holidays;Holiday vouchers;2019-12-20 00:00;2020-01-20 23:59;100;B
+2;Meals;Meal vouchers;2020-01-01 00:00;2020-01-30 23:59;100;A
+3;Amazon cards;Amazon gift vouchers;2020-02-01 00:00;2020-02-30 23:59;100;C
+4;Wizz Air;Wizz Air vouchers;2020-01-07 00:00;2020-02-30 23:59;100;C
+5;Eventim;Eventim tickets;2020-01-03 00:00;2020-01-10 23:59;100;C
+6;Steam;Steam gift cards;2020-01-01 00:00;2020-01-15 23:59;100;C
+7;Booking;Booking vouchers;2019-12-01 00:00;2019-12-10 23:59;100;C
+8;iabilet.ro;Event tickets;2020-01-05 00:00;2020-01-20 23:59;100;C
+9;Gameland;Gameland tickets;2020-01-09 00:00;2020-01-30 23:59;100;C
+10;Oriflame;Oriflame discounts;2019-12-10 00:00;2018-12-30 23:59;100;C
