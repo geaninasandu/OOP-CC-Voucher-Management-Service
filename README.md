@@ -1,14 +1,12 @@
 # VMS - Voucher Management Service
 
 ## Project description
-------------------------
 
 The purpose of the homework is implementing a class hierarchy for designing a voucher management
 application, consisting of both a raw file writting mechanism and a graphical user interface, built
 using the legacy Swing toolkit.
 
 ## Running
----------------------------------------------------------------------------------------------------
 
 #### Non-graphical version:
 
@@ -22,7 +20,6 @@ To run the GUI application, we run the main() method of the **TestGUI** class, w
 *usersGUI.txt campaignsGUI.txt*.
 
 ## Part 1 - No GUI
----------------------------------------------------------------------------------------------------
 
 ### Main classes:
 
@@ -66,7 +63,6 @@ the method with the same name from the Campaign class).
 We display the "get*" actions results in the output.txt file.
 
 ## Part 2 - GUI
----------------------------------------------------------------------------------------------------
 
 Before opening the user interface, the program reads and parses the input in the campaignsGUI and
 usersGUI files, and adds the users and campaigns to the VMS hierarchy.
@@ -89,5 +85,3 @@ user is subscribed.
 By clicking on a campaign, the user can see the vouchers he received.
 The header of the app contains a notification bell button, which opens a tabel of all the
 notifications received by the user.
-
-===================================================================================================
