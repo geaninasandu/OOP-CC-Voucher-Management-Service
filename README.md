@@ -69,19 +69,26 @@ usersGUI files, and adds the users and campaigns to the VMS hierarchy.
 The app opens the login window, where the user types in the credentials, which are then checked.
 
 
-If the logged in user is an admin, the app creates a new panel, containing a table that displays
-information about each campaign, each campaign containing 4 buttons (addVoucher, editCampaign,
-campaignInfo and cancelCampaign).
+If the logged in user is an **admin**, the app creates a new panel, containing a table that displays
+information about the campaigns, each campaign containing 4 buttons (*addVoucher*, *editCampaign*,
+*campaignInfo* and *cancelCampaign*).
+
 Each of these buttons opens a dialog box, which require the user to insert certain details,
 acknowledge an action or simply display some pieces of information.
-To add a new campaign, we click the Add Campaign button on the top of the table (obviously) and
+
+To add a new campaign, we click the *Add Campaign* button on the top of the table and
 insert the required details. The table is then imediately updated with the new campaign added.
+
 By clicking on a row of the table, the app opens a new dialog box, which contains the table of
 vouchers generated within the campaign. We can search for a voucher using the search text field.
 The header of te application contains a logout button, which re-opens the login panel.
 
-If the user is a guest, the app opens a new panel, containing the table of campaigns to which the
+![alt text](https://github.com/geaninasandu/OOP-CC-Voucher-Management-Service/blob/master/images/vms.PNG "VMS admin interface")
+
+
+If the user is a **guest**, the app opens a new panel, containing the table of campaigns to which the
 user is subscribed.
+
 By clicking on a campaign, the user can see the vouchers he received.
-The header of the app contains a notification bell button, which opens a tabel of all the
+The header of the app contains a notification bell button, which opens a table of all the
 notifications received by the user.
